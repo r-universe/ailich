@@ -1,0 +1,10 @@
+[
+  {
+    "package": "GLCMTextures",
+    "oncran": true
+  },
+  {
+    "package": "MultiscaleDTM",
+    "oncran": true
+  }
+]

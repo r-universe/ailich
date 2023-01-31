@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GLCMTextures"]
+	path = GLCMTextures
+	url = https://github.com/ailich/glcmtextures
+	shallow = true
+	registered = true
+[submodule "MultiscaleDTM"]
+	path = MultiscaleDTM
+	url = https://github.com/ailich/multiscaledtm
+	shallow = true
+	registered = true
